@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public enum Weapon {
+public enum Weapon {
+    AXE,
+    SWORD,
+    BOW
 }
